@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"MyCharacterBattler","characterIndex":0,"characterName":"MyCharacterStance","classId":1,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"My Main Character","traits":[],"initialLevel":1,"maxLevel":99,"name":"Roy","nickname":"Roy","note":"","profile":""},
+{"id":2,"battlerName":"battler cat thotty","characterIndex":0,"characterName":"cat thotty walk","classId":4,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"cat thotty face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Sera","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"Ganrok battler","characterIndex":0,"characterName":"Ganrok walk","classId":3,"equips":[0,0,0,3,0],"faceIndex":0,"faceName":"Ganrok face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ganrok","nickname":"","note":"","profile":"Ganrok is a powerful Wizard. Not much is known about him."},
+{"id":4,"battlerName":"irena battler","characterIndex":7,"characterName":"Nature","classId":2,"equips":[12,0,0,3,0],"faceIndex":7,"faceName":"Nature","traits":[],"initialLevel":1,"maxLevel":99,"name":"Irena","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"Demon Girl","classId":3,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Demon Girl","traits":[],"initialLevel":1,"maxLevel":99,"name":"Grace","nickname":"","note":"","profile":""}
+]

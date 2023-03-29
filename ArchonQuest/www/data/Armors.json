@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"atypeId":5,"description":"A magical shield old shield maybe used by Dragon \nslayers of olden times.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0},{"code":21,"dataId":3,"value":1.1}],"iconIndex":375,"name":"Dragon's Bane square shield","note":"","params":[0,0,0,5,0,0,0,0],"price":500},
+{"id":2,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":3,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":4,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":5,"atypeId":5,"description":"Small offhand defender.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0.05}],"iconIndex":96,"name":"Perfect Defender","note":"","params":[0,0,10,10,10,0,0,0],"price":250},
+{"id":6,"atypeId":0,"description":"Buffs magical elements.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":145,"name":"Enchanters ring","note":"","params":[0,0,0,0,15,0,0,0],"price":500},
+{"id":7,"atypeId":0,"description":"Get hit less often.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.25}],"iconIndex":145,"name":"Illusionary ring","note":"","params":[0,0,0,0,0,0,0,0],"price":1000},
+{"id":8,"atypeId":0,"description":"Increases speed.","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0.1}],"iconIndex":146,"name":"Quickness Necklace","note":"","params":[0,0,0,2,0,0,50,0],"price":250},
+{"id":9,"atypeId":2,"description":"Magical Robes that increase defence against Melee \nattacks","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"Vestments of Forinthry","note":"","params":[0,0,0,15,0,15,0,0],"price":1000},
+{"id":10,"atypeId":1,"description":"Armour that inceases defense.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":343,"name":"Dragon's Bane Chain mail","note":"","params":[0,0,0,20,0,10,0,0],"price":1000},
+{"id":11,"atypeId":2,"description":"increases defense and buffs magical abilities.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":346,"name":"Thorncrest chestplate","note":"","params":[0,0,0,10,15,10,0,0],"price":1000},
+{"id":12,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":2,"description":"Raises the users max HP and defence.","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":376,"name":"Mage's buckler","note":"","params":[500,0,0,30,0,0,0,0],"price":750},
+{"id":14,"atypeId":4,"description":"Inbued by the power of a Greater Demon","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":347,"name":"Infernal Chestplate","note":"","params":[0,0,0,70,45,70,0,0],"price":4000},
+{"id":15,"atypeId":2,"description":"Inbued by the power of a Greater Demon","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":139,"name":"Infernal Robes","note":"","params":[0,0,0,70,45,70,0,0],"price":4000},
+{"id":16,"atypeId":2,"description":"Inbued by the power of a Greater Demon","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":149,"name":"Infernal Bralette","note":"","params":[0,0,0,70,45,70,0,0],"price":4000},
+{"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":18,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":19,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":20,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+]
